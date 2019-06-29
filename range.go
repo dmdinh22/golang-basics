@@ -29,3 +29,5 @@ func main() {
 		fmt.Println(i, c)
 	}
 }
+
+// range iterates over elements in a variety of data structures
