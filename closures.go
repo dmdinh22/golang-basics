@@ -21,3 +21,5 @@ func main() {
 	newInts := intSeq()
 	fmt.Println(newInts())
 }
+
+// Closures - https://en.wikipedia.org/wiki/Closure_(computer_programming)
