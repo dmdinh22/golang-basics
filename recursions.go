@@ -13,3 +13,5 @@ func fact(n int) int {
 func main() {
 	fmt.Println(fact(7))
 }
+
+// recursion - https://en.wikipedia.org/wiki/Recursion_(computer_science)
