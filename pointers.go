@@ -22,3 +22,5 @@ func main() {
 
 	fmt.Println("pointer:", &i)
 }
+
+// pointers - https://en.wikipedia.org/wiki/Pointer_(computer_programming)
