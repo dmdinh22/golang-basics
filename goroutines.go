@@ -20,3 +20,5 @@ func main() {
 	fmt.Scanln()
 	fmt.Println("done")
 }
+
+// goroutine - lighjtweight thread of execution
