@@ -10,3 +10,7 @@ func main() {
 	msg := <-messages
 	fmt.Println(msg)
 }
+
+// Channels - pipes that connect concorrent goroutines
+// - can send values into channels from one goroutine and
+//  receive those values into another goroutine
