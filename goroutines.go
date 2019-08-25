@@ -21,4 +21,4 @@ func main() {
 	fmt.Println("done")
 }
 
-// goroutine - lighjtweight thread of execution
+// goroutine - lightweight thread of execution
